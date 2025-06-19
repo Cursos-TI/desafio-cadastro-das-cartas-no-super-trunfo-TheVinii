@@ -8,7 +8,9 @@ int main() {
     float area1;
     float pib1;
     int pTuristicos1;
-
+    float densidade1;
+    float pibPercapita1;
+    
     char estado2;
     char codCarta2[4];
     char cidade2[50];
@@ -16,6 +18,8 @@ int main() {
     float area2;
     float pib2;
     int pTuristicos2;
+    float densidade2;
+    float pibPercapita2;
 
     printf("Digite os dados da Carta 1:\n");
     printf("Uma sigla de A-H para o Estado:");
